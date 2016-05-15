@@ -180,14 +180,22 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
+<<<<<<< HEAD
     background-color: #14c0c9;
+=======
+    background-color: #14c8aa;
+>>>>>>> 2e69d9d26b7fcf17b9f61b3bf6cc68ccbb583f25
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
+<<<<<<< HEAD
     color: #14c0c9;
+=======
+    color: #14c8aa;
+>>>>>>> 2e69d9d26b7fcf17b9f61b3bf6cc68ccbb583f25
 }
 #works
 {
@@ -316,7 +324,11 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
+<<<<<<< HEAD
     background-color: #14c0c9;
+=======
+    background-color: #14c8aa;
+>>>>>>> 2e69d9d26b7fcf17b9f61b3bf6cc68ccbb583f25
 }
 #contact ul a:hover
 {
@@ -328,4 +340,9 @@ footer
     text-align: center;
     color: #fff;
     background-color: #589271;
+<<<<<<< HEAD
 }
+=======
+}
+/*test*/
+>>>>>>> 2e69d9d26b7fcf17b9f61b3bf6cc68ccbb583f25
